@@ -18,7 +18,7 @@
         "mbed",
         "arduino"
     ],
-    "name": "IntoRobot neutron(512k flash, 128k sram)",
+    "name": "IntoRobot Neutron(512k flash, 128k sram)",
     "upload": {
         "disable_flushing": false,
         "maximum_ram_size": 131072,
